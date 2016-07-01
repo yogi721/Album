@@ -2,7 +2,7 @@
 
 This is a simple module from zf2 doc tutorial with doctrine2 ORM
 
-Install
+# Install
 clone the module to your application
 
 add new file named doctrine.local.php to config\autoload if not exists, (config\autoload\doctrine.local.php)
